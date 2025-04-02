@@ -1,1 +1,2 @@
-console.table("heyy")
+let a="hey"
+console.table([a])
