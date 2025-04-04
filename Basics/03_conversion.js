@@ -20,3 +20,5 @@ console.log(convert + " "+ typeof(convert))
 let sc=1008
 let con= String(sc)
 console.table([convert,con])
+
+//console.log(2**3) //power like 2^3
