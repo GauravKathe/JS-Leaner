@@ -27,3 +27,7 @@ console.log(ar1)
 
 const slice = new Array("This is an slice ",1,2,3,"babyyyy",4,5,6,7)
 console.log(slice.slice(0,4))
+
+const s=[3,0,44,23,32,21,66,78,901]
+const s1=s.sort((a,b)=>a-b)
+console.log(s1)
