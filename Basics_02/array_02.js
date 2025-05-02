@@ -5,7 +5,8 @@ const arr1=[10,11,12,13]
 arr.sort(arr1)
 then the o/p[1,2,3,4,5,[10,11,12,13]] it will be one element it will not concat 
 
-2.Most Important we can also use spread out .
+Concatination : either we can use concat or (...) spread out 
+2.Most Important we can also use spread out . 
 basically it spread out the each element in array. [...aray_name]
 
 3.Most Important flat() method - this methid is used to write one sigle arrays of an multiple subarrays

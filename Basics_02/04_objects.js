@@ -6,7 +6,11 @@ tinder.name='Gaurav kathe'
 tinder.email='gauravkathe@gmail.com'
 
 console.log(tinder)
-console.log(tinder.name)
+//console.log(tinder.name)
+
+console.log(Object.keys(tinder)) // only keys name 
+console.log(Object.values(tinder)) //value name
+console.log(Object.entries(tinder)) //both key value pair in an array of each sperate [key-value] pair
 
 let user = {
     email:'gsk@gmail.com',
@@ -23,5 +27,5 @@ let user = {
     },
     phn:8657218488
 }
-
 console.log(user.address)
+

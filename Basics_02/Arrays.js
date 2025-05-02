@@ -31,3 +31,5 @@ console.log(slice.slice(0,4))
 const s=[3,0,44,23,32,21,66,78,901]
 const s1=s.sort((a,b)=>a-b)
 console.log(s1)
+
+console.log(arr.concat(ar1))
